@@ -3,6 +3,8 @@ Simple animation tool for Retro game engines.
 
 Developed with Unity 2020.3. This is compatible with the [Scorpion Engine](https://github.com/earok/scorpion-editor-demos), and is used as the animation editor for the game [Metro Siege](https://bitbeamcannon.com/metro-siege/), but it could easily be integrated with other engines.
 
+It also uses the MIT licenced [Unity Standalone File Browser](https://github.com/gkngkc/UnityStandaloneFileBrowser/tree/master)
+
 The editor itself is public domain but the example is not, please do not use the example in a game project without permission.
 
 You are welcome to port this editor to whatever system you like - Mac, Linux, Android, iOS, Web etc. I would very much appreciate it if any enhancements done are contributed back to the project through pull requests.
