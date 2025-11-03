@@ -1,7 +1,7 @@
 # OpenRetroAnimator
 Simple animation tool for Retro game engines.
 
-Developed with Unity 2020.3. This is compatible with the Scorpion Engine, as well as the engine for the game [Metro Siege](https://bitbeamcannon.com/metro-siege/), but it could easily be integrated with other engines.
+Developed with Unity 2020.3. This is compatible with the Scorpion Engine, as well as the animation editor for the game [Metro Siege](https://bitbeamcannon.com/metro-siege/), but it could easily be integrated with other engines.
 
 The editor itself is public domain but the example is not, please do not use the example in a game project without permission.
 
